@@ -12,6 +12,7 @@ build/
 docs/_build
 requests.egg-info/
 *.pyc
+*.pyo
 *.swp
 *.egg
 env/

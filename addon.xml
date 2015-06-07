@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><addon id="script.module.requests" name="Python Requests Library" provider-name="xbmc-catchuptv-au" version="2.7.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="." />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Python Requests Library</summary>
+    <description>Python Requests Library</description>
+    <disclaimer></disclaimer>
+    <license>Apache License</license>
+    <website>https://github.com/xbmc-catchuptv-au/script.module.requests</website>
+    <source>https://github.com/xbmc-catchuptv-au/script.module.requests.git</source>
+  </extension>
+</addon>
